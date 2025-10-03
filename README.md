@@ -1,3 +1,5 @@
+![CI](https://github.com/MichaelSusiCS/cecs174-water-billing/actions/workflows/python.yml/badge.svg)
+
 # CECS 174 — Water Billing (Python CLI)
 
 Calculates gallons used and charges for **Residential / Commercial / Industrial** customers.
