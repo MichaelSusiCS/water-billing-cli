@@ -1,6 +1,6 @@
 ![CI](https://github.com/MichaelSusiCS/cecs174-water-billing/actions/workflows/python.yml/badge.svg)
 
-# Intro to Programming — Water Billing (Python CLI)
+Water Billing (Python CLI)
 
 Calculates gallons used and charges for **Residential / Commercial / Industrial** customers.
 - Handles input validation and edge cases (e.g., meter rollover).
