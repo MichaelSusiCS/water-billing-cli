@@ -1,6 +1,6 @@
 ![CI](https://github.com/MichaelSusiCS/cecs174-water-billing/actions/workflows/python.yml/badge.svg)
 
-# CECS 174 — Water Billing (Python CLI)
+# Intro to Programming — Water Billing (Python CLI)
 
 Calculates gallons used and charges for **Residential / Commercial / Industrial** customers.
 - Handles input validation and edge cases (e.g., meter rollover).
@@ -20,7 +20,7 @@ FILE="$HOME/Downloads/cs174_proj2.py"
 # ===============================================
 
 REPO="cecs174-water-billing"
-DESC="Water utility billing calculator (Python CLI) — CSULB CECS 174"
+DESC="Water utility billing calculator (Python CLI) — CSULB Intro to Programming"
 
 # 0) Make a dev folder and create (or clone) the repo
 mkdir -p "$HOME/dev" && cd "$HOME/dev"
@@ -38,7 +38,7 @@ cp "$FILE" water_billing.py
 
 # 3) README (no code fences to avoid shell confusion)
 cat > README.md <<'MD'
-# CECS 174 — Water Billing (Python CLI)
+# Intro to Programming — Water Billing (Python CLI)
 
 Calculates gallons used and charges for Residential / Commercial / Industrial customers.
 - Handles input validation and meter rollover edge cases.
